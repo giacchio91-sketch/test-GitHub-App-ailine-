@@ -12,3 +12,4 @@ let's try again
 this is the final attempt for a single JSON
 
 I am testing again another pull request to see if it's duplicated
+duplication check
